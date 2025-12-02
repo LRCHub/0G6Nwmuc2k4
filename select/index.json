@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "月曜日の歌",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T12:23:22.240825Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月曜日の歌 - Getsuyobi no Uta",
+      "artist": "NEE",
+      "has_synced": true,
+      "path": "select/01_月曜日の歌_-_Getsuyobi_no_Uta_NEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月曜日の歌",
+      "artist": "NEE",
+      "has_synced": true,
+      "path": "select/02_月曜日の歌_NEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月曜日の歌",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_月曜日の歌_NEE.txt"
+    }
+  ]
+}
